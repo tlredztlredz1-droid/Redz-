@@ -6,7 +6,7 @@ elseif game.PlaceId == 4442272183 then
 elseif game.PlaceId == 7449423635 then
     World3 = true
 else
-    game:GetService("Players").LocalPlayer:Kick("Do not Support, Please wait...")
+    game:GetService("Players").LocalPlayer:Kick("Do not Support, redz waid...")
 end
 
 -- Carrega a biblioteca
