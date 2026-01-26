@@ -6,7 +6,7 @@ elseif game.PlaceId == 4442272183 then
 elseif game.PlaceId == 7449423635 then
     World3 = true
 else
-    game:GetService("Players").LocalPlayer:Kick("Do not Support, redz waid...")
+    game:GetService("Players").LocalPlayer:Kick("Do not Support, redz waid ...")
 end
 
 -- Carrega a biblioteca
@@ -43,4 +43,5 @@ local Tab7 = Window:MakeTab({"Um", "rbxassetid://4483345998"})
 local Tab8 = Window:MakeTab({"Um", "settings"})
 
 -- Fim do carregamento da biblioteca redz
+
 
